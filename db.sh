@@ -2,3 +2,5 @@
 mangodb
 mariadb
 mysql
+prosgresQL
+dynamodb
